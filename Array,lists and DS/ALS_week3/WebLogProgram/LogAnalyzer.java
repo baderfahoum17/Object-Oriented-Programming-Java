@@ -1,10 +1,5 @@
 
-/**
- * Write a description of class LogAnalyzer here.
- * 
- * @author Xiaomei Wang
- * @version (a version number or a date)
- */
+
 
 import java.util.*;
 import edu.duke.*;
