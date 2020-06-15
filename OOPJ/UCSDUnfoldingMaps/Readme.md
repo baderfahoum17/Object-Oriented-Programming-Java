@@ -38,5 +38,5 @@ Switch Java Compiler to 1.8 if you get VM problems.
 
 
 <img src="https://github.com/baderfahoum17/Object-Oriented-Programming-Java/blob/master/OOPJ/UCSDUnfoldingMaps/Earthquakes-map-javaApp.png" 
-alt="dust mite" width="100%" title="By BaderFahoum 1">
+alt="dust mite" width="40%" title="By BaderFahoum 1">
 
