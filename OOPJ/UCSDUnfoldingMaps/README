@@ -34,8 +34,9 @@ If the import does not work follow the steps below.
 
 TROUBLE SHOOTING
 
-Switch Java Compiler to 1.6 if you get VM problems. (Processing should work with Java 1.6, and 1.7)
+Switch Java Compiler to 1.8 if you get VM problems. 
 
 
-
+<img src="https://github.com/baderfahoum17/Object-Oriented-Programming-Java/blob/master/OOPJ/UCSDUnfoldingMaps/Earthquakes-map-javaApp.png" 
+alt="dust mite" width="100%" title="By BaderFahoum 1">
 
