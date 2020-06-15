@@ -21,7 +21,7 @@ Course work for Coursera Online class Object Oriented Programming in Java Specia
 ### **Week 4**
 	mini-project: search and rank babynames in different year
 	Optional Honors Content: convert images to grayscale and inverted version and save them to the file.
-
+### ----------------------------------------------------------------------
 ## ALS = Java Programming: Arrays, Lists, and Structured Data
 	2nd course of the specialization
 	BY Duke University
@@ -66,7 +66,7 @@ Course work for Coursera Online class Object Oriented Programming in Java Specia
 		Assignment: English Language, Known Key Length
 		Assignment: English Language, Unknown Key Length
 		Assignment: Multiple Languages
-
+### ----------------------------------------------------------------------
 ## OOPJ = Object Oriented Programming in Java
 	3rd course of the specialization
 	BY University of California, San Diego
@@ -149,9 +149,12 @@ Course work for Coursera Online class Object Oriented Programming in Java Specia
 	Use pre-defined Java methods to sort
 	Explain the properties of this built-in sort algorithm
 	Define and use the Comparable interface in Java
-end product:
+#### end product:
+
 <img src="https://github.com/baderfahoum17/Object-Oriented-Programming-Java/blob/master/OOPJ/UCSDUnfoldingMaps/Earthquakes-map-javaApp.png" 
 alt="dust mite" width="30%" title="By BaderFahoum 1">
+
+### ----------------------------------------------------------------------
 ## DSP = Data Structures and Performance
 	4th course of the specialization
 	BY University of California, San Diego
